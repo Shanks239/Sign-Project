@@ -1,0 +1,6 @@
+{
+  "name": "Sign Protocol Hangman",
+  "description": "Test your knowledge of Sign Protocol (sign.global) with this hangman game. Guess terms related to attestations, schemas, and decentralized identity, sourced directly from the protocol's concepts. Climb the ranks from Signer to Protocol Master!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
